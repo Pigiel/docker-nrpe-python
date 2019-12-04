@@ -1,4 +1,4 @@
-FROM: ubuntu:bionic
+FROM ubuntu:bionic
 
 # Install required python & git packages
 RUN apt-get update && apt-get install -y\
